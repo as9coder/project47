@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.classText {
+  /* Highlight the text */
+  background-color: #ffff00;
+
+  /* Outline the text */
+  text-shadow: 0 0 3px #000000;
+
+  /* Color the text */
+  color: #000000;
+
+  /* Make the text bold */
+  font-weight: bold;
+
+  /* Make the text larger */
+  font-size: 1.2em;
+}
